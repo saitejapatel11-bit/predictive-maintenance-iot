@@ -1,0 +1,5 @@
+predictive-maintenance-iot/
+│── iot-scripts/          # Device simulation scripts
+│── ml-models/            # Failure prediction ML models
+│── dashboard/            # Visualization code (Streamlit/Flask)
+│── README.md
